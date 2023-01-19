@@ -1,5 +1,5 @@
 # How to create a great local Python development environment with Docker
-[Build Status](http://localhost:8080/buildStatus/icon?job=test_docker "http://localhost:8080/job/test_docker/")
+<a href='http://localhost:8080/job/test_docker/'><img src='http://localhost:8080/buildStatus/icon?job=test_docker'></a>
 Work in progress
 
 1. Why Docker?
